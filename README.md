@@ -1,16 +1,19 @@
-# reader_tracker
+# Reader Tracker
 
-A new Flutter project.
+Reader Tracker is a sleek and user-friendly 4-screen app designed to enhance your book discovery and management experience built using flutter. It features both light and dark modes to match your preferred reading environment and ensure a comfortable experience, whether in bright or low-light settings.
 
-## Getting Started
+## Home Screen
 
-This project is a starting point for a Flutter application.
+Effortlessly search for book titles online. Results are displayed with vibrant book cover images, titles, and author names. Simply tap on any book to dive deeper.
 
-A few resources to get you started if this is your first Flutter project:
+## Book Details Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here, you’ll find a detailed view of your selected book, including its cover image, title, author, publication date, page count, and language. You can also save the book to your collection and read a comprehensive description.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Saved Books Screen
+
+Access all your saved books in one place. From here, you can manage your collection by adding or removing books from your favorites or deleting them entirely.
+
+## Favorites Screen
+
+Review and manage your favorite books. Easily unfavorite any book that no longer captures your interest.
